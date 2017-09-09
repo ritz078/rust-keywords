@@ -1,4 +1,4 @@
-export default [
+module.exports = [
   "as",
   "use",
   "extern crate",
