@@ -56,5 +56,6 @@ module.exports = [
   "typeof",
   "unsized",
   "virtual",
-  "yield"
+  "yield",
+  "dyn", "try", "async", "await", "union"
 ];
